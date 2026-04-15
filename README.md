@@ -39,14 +39,12 @@ That's it! Your notebook will load, and all your data will be saved locally in y
 
 Here are some screenshots to give you an impression of the notebook's look and functionality:
 
-<!-- Add your screenshots here. Example: -->
-<!--
 <div align="center">
     <img src="assets/single-page-view.png" width="600" alt="Single Page View" />
     <img src="assets/dual-page-view.png" width="600" alt="Dual Page View" />
     <img src="assets/saveload.png" width="600" alt="save/load" />
 </div>
--->
+
 
 ## Contributing
 
